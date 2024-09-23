@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_mvvm/Features/Counter/counter_viewmodel.dart';
+import 'package:flutter_mvvm/viewmodels/counter_viewmodel.dart';
 import 'package:get/get.dart';
 
 class CounterView extends StatelessWidget {

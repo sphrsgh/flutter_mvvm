@@ -1,4 +1,4 @@
-import 'package:flutter_mvvm/Features/Counter/counter_model.dart';
+import 'package:flutter_mvvm/models/counter_model.dart';
 import 'package:get/get.dart';
 
 class CounterViewModel extends GetxController {
